@@ -1,0 +1,115 @@
+@font-face {
+    font-family: FontAwesome;
+    src: url(../fonts/fontawesome-webfont.eot?v=4.6.3);
+    src: url(../fonts/fontawesome-webfont.eot?#iefix&v=4.6.3) format('embedded-opentype'), url(../fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'), url(../fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'), url(../fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'), url(../fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0)
+}
+
+.fa-search:before {
+    content: "\f002"
+}
+
+.fa-whatsapp:before {
+    content: "\f232"
+}
+
+.fa-pencil:before {
+    content: "\f040"
+}
+
+.fa-laptop:before {
+    content: "\f109"
+}
+
+.fa-shopping-cart:before {
+    content: "\f07a"
+}
+
+.fa-comments:before {
+    content: "\f086"
+}
+
+.fa-line-chart:before {
+    content: "\f201"
+}
+
+.fa-paper-plane-o:before, .fa-send-o:before {
+    content: "\f1d9"
+}
+
+.fa-facebook:before {
+    content: "\f09a"
+}
+
+.fa-briefcase:before {
+    content: "\f0b1"
+}
+
+.fa-lightbulb-o:before {
+    content: "\f0eb"
+}
+
+.fa-star:before {
+    content: "\f005"
+}
+
+.fa-clock-o:before {
+    content: "\f017"
+}
+
+.fa-calendar:before {
+    content: "\f073"
+}
+
+.fa-moon-o:before {
+    content: "\f186"
+}
+
+.fa-coffee:before {
+    content: "\f0f4"
+}
+
+@font-face {
+    font-family: icomoon;
+    src: url(../fonts/icomoon.eot?-rmxl05);
+    src: url(../fonts/icomoon.eot?#iefix-rmxl05) format('embedded-opentype'), url(../fonts/icomoon.ttf?-rmxl05) format('truetype'), url(../fonts/icomoon.woff?-rmxl05) format('woff'), url(../fonts/icomoon.svg?-rmxl05#icomoon) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+[class * =" icon-"], [class^=icon-] {
+    font-family: icomoon;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-facebook:before {
+    content: "\e78c"
+}
+
+.icon-linkedin:before {
+    content: "\e7c9"
+}
+
+.icon-mail:before {
+    content: "\e645"
+}
+
+

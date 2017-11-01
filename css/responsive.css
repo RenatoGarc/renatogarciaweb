@@ -1,0 +1,330 @@
+@media (max-width:480px) {
+    .flexcaption h1 {
+        font-size: 34px
+    }
+
+    .flexcaption h2 {
+        font-size: 19px
+    }
+
+    .title-section {
+        padding-bottom: 28px
+    }
+
+    #presupuesto-section h2 {
+        font-size: 34px
+    }
+
+    #presupuesto-section h5 {
+        font-size: 19px
+    }
+
+    .stats-icon {
+        padding-top: 1px
+    }
+
+    #testimonial-section .container h2 {
+        font-size: 24px;
+        line-height: 30px
+    }
+
+    .percentfactor {
+        display: inline-block;
+        color: #fff;
+        font-size: 56px
+    }
+}
+
+@media screen and (min-width:768px) {
+    h4 {
+        font-size: 20px
+    }
+
+    .navbar-nav {
+        float: right;
+        margin-top: 5px
+    }
+
+    .flex-control-nav {
+        bottom: -45px
+    }
+
+    .flexcaption h1 {
+        font-size: 44px
+    }
+
+    #home-section .actionButtons {
+        bottom: 10%;
+        left: 50%
+    }
+
+    .actionButtons span.choice {
+        display: inline-block;
+        vertical-align: top;
+        margin: 10px 20px;
+        font-size: 16px;
+        font-style: italic
+    }
+
+    .servicespost h4 {
+        font-size: 20px
+    }
+
+    .progress-bar {
+        margin-bottom: 15px
+    }
+
+    .progressbar-title {
+        font-size: 15px;
+        margin-bottom: 5px
+    }
+
+    #extras-section .container > h3 {
+        font-size: 24px
+    }
+
+    .extrasList {
+        margin-bottom: 30px
+    }
+
+    .home-projects .project-item {
+        width: 50%
+    }
+
+    #filters li a {
+        font-size: 14px;
+        padding: 6px 25px
+    }
+
+    .col-blog-masonry figure figcaption {
+        bottom: -70px;
+        visibility: visible
+    }
+
+    ul.princing-table h4 {
+        font-size: 20px
+    }
+
+    ul.princing-table li a.purchase, ul.princing-table li p {
+        font-size: 17px
+    }
+
+    ul.princing-table li.price p span {
+        font-size: 28px
+    }
+
+    .blog-media figure figcaption a.link {
+        width: 45px;
+        height: 45px
+    }
+
+    .blog-media figure figcaption a.link i {
+        line-height: 45px;
+        font-size: 20px
+    }
+
+    .title-widgets {
+        font-size: 20px
+    }
+
+    #contact-box h4 {
+        font-size: 18px
+    }
+
+    ul#social-icons li a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px
+    }
+}
+
+@media screen and (min-width:992px) {
+    .copyright, .skillsheading {
+        text-align: left
+    }
+
+    h1 {
+        font-size: 40px
+    }
+
+    h5 {
+        font-size: 18px
+    }
+
+    #action-section, #blog-section, #contact-section, #extras-section,
+    #portfolio-section, #princing-section, #services-section, #skills-section,
+    #team-section {
+        padding: 44px 0
+    }
+
+    .navbar-default .navbar-nav > li > a {
+        font-size: 14px
+    }
+
+    .navbar-nav > li > a {
+        padding: 9px 20px
+    }
+
+    .flexcaption h1 {
+        font-size: 44px
+    }
+
+    .flexcaption h2 {
+        font-size: 20px
+    }
+
+    #home-section .actionButtons {
+        bottom: 10%
+    }
+
+    .title-section {
+        padding-bottom: 48px
+    }
+
+    .title-section h3 {
+        font-size: 44px
+    }
+
+    .servicespost span.services {
+        width: 100px;
+        height: 100px
+    }
+
+    .servicespost span.services i.fa {
+        line-height: 100px;
+        font-size: 32px
+    }
+
+    ul.bxslider small {
+        font-size: 15px
+    }
+
+    .staff-member .member-team figcaption h5 {
+        font-size: 18px
+    }
+
+    .staff-member .member-team figcaption h6 {
+        font-size: 14px
+    }
+
+    .skillsheading {
+        margin-bottom: 50px
+    }
+
+    .page-navi, ul.princing-table {
+        margin-bottom: 0
+    }
+
+    .percentfactor {
+        font-size: 64px;
+        line-height: 64px
+    }
+
+    .skill-percent .fact p {
+        font-size: 17px
+    }
+
+    .home-projects .project-item {
+        width: 33.3334%
+    }
+
+    .project-item a.zoom {
+        margin-left: -13px
+    }
+
+    .actionButtons {
+        margin-top: 50px
+    }
+
+    .contact-info {
+        margin-top: 0
+    }
+
+    .dataweb {
+        text-align: right
+    }
+
+    .copyright p, .dataweb p {
+        margin: 0
+    }
+
+    #headerblog-section {
+        text-align: inherit;
+        padding: 45px 0
+    }
+
+    #headerblog-section h1 {
+        font-size: 52px
+    }
+
+    #headerblog-section h2 {
+        text-align: right;
+        margin-top: 22px
+    }
+
+    .archives ul li a, .categories ul li a {
+        font-size: 14px;
+        padding: 14px 0
+    }
+
+    .blog-input-form {
+        width: 50%
+    }
+
+    .comment-blog-post {
+        width: 80% !important
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .flexcaption h1 {
+        font-size: 44px
+    }
+
+    #home-section .actionButtons {
+        bottom: 10%
+    }
+
+    #options {
+        margin-bottom: 30px
+    }
+
+    #filters li a {
+        font-size: 14px;
+        padding: 8px 15px
+    }
+
+    .home-projects .project-item {
+        width: 33.3334%
+    }
+
+    .col-blog-masonry, .grid-size-blog {
+        width: 33%
+    }
+
+    .col-blog-masonry.w2 {
+        width: 66%
+    }
+
+    #blog-section a.button {
+        padding: 15px 40px
+    }
+
+    .col-blog-masonry figure figcaption {
+        bottom: -120px
+    }
+}
+
+@-ms-viewport {
+    width: device-width
+}
+
+@-o-viewport {
+    width: device-width
+}
+
+@viewport {
+    width: device-width
+}
+
+
